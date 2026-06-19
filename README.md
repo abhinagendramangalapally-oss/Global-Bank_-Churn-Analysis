@@ -10,7 +10,7 @@ adjustments could prevent future losses.
 
 
 
-
+data set https://github.com/abhinagendramangalapally-oss/Global-Bank_-Churn-Analysis/blob/main/Bank_Churn.xlsx
 
 
 
