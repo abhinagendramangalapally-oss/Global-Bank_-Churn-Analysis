@@ -1,4 +1,4 @@
-# Global-Bank_-Churn-Analysis
+# GlobalBank-Churn-Analysis
    ##The Business Problem 
    
    The bank is experiencing a substantial customer attrition rate. Out of 10,000 active accounts, 
