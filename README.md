@@ -8,14 +8,11 @@ dollars in lost or at-risk revenue. Management lacked clear visibility into why 
 were leaving, which segments posed the highest financial risk, and what operational 
 adjustments could prevent future losses. 
 
+Dataset used:
+- <a href="https://github.com/abhinagendramangalapally-oss/Global-Bank_-Churn-Analysis/blob/main/Bank_Churn.xlsx">GlobalBank ChurnAnalysis Dataset</a>
 
-
-data set https://github.com/abhinagendramangalapally-oss/Global-Bank_-Churn-Analysis/blob/main/Bank_Churn.xlsx
-
-
-
-
-
+ GlobalBank ChurnAnalysis Dashboard:
+  - <a href="https://github.com/abhinagendramangalapally-oss/Global-Bank_-Churn-Analysis/blob/main/churn%20analysis.pbit">GlobalBank Interactive Dashboard</a>
 
 ##Key Findings 
 
