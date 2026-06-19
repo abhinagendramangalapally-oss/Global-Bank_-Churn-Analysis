@@ -25,6 +25,8 @@ exhibit disproportionately higher churn rates than those on automated billing.
 ->Financial Risk Exposure: A substantial portion of the bank’s $25M portfolio sits in 
 high-risk categories, requiring immediate, targeted proactive marketing 
 interventions. 
+Dashboard Image View:
+-<a href=" https://github.com/abhinagendramangalapally-oss/Global-Bank_-Churn-Analysis/blob/main/Global%20bank%20churn%20analysis.png.png">>GlobalBank Dashboard ImageView</a>
 
 ##2. Business Objective 
 
