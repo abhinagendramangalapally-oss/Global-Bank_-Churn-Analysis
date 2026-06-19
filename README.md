@@ -12,19 +12,21 @@ Dataset used:
 - <a href="https://github.com/abhinagendramangalapally-oss/Global-Bank_-Churn-Analysis/blob/main/Bank_Churn.xlsx">GlobalBank ChurnAnalysis Dataset</a>
 
  GlobalBank ChurnAnalysis Dashboard:
-  - <a href="https://github.com/abhinagendramangalapally-oss/Global-Bank_-Churn-Analysis/blob/main/churn%20analysis.pbit">GlobalBank Interactive Dashboard</a>
+  - <a href="<img width="1375" height="793" alt="Global bank churn analysis png" src="https://github.com/user-attachments/assets/9fcb72ff-d8bf-4b49-a989-807e6399435d" />
+">GlobalBank Interactive Dashboard</a>
 
 ##Key Findings 
 
--> Contract Vulnerability: Customers on short-term Monthly Contracts are the 
+Contract Vulnerability: Customers on short-term Monthly Contracts are the 
 dominant drivers of churn. 
--> The Critical First Year: Customer attrition peaks heavily within the New Customer 
+The Critical First Year: Customer attrition peaks heavily within the New Customer 
 bracket (0–12 months of tenure). 
--> Payment Friction: Customers utilizing manual or less integrated payment methods 
+Payment Friction: Customers utilizing manual or less integrated payment methods 
 exhibit disproportionately higher churn rates than those on automated billing. 
-->Financial Risk Exposure: A substantial portion of the bank’s $25M portfolio sits in 
+Financial Risk Exposure: A substantial portion of the bank’s $25M portfolio sits in 
 high-risk categories, requiring immediate, targeted proactive marketing 
-interventions. 
+interventions.
+
 Dashboard Image View:
 -<a href=" https://github.com/abhinagendramangalapally-oss/Global-Bank_-Churn-Analysis/blob/main/Global%20bank%20churn%20analysis.png.png">>GlobalBank Dashboard ImageView</a>
 
