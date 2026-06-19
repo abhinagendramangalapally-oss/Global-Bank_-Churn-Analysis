@@ -12,7 +12,7 @@ Dataset used:
 - <a href="https://github.com/abhinagendramangalapally-oss/Global-Bank_-Churn-Analysis/blob/main/Bank_Churn.xlsx">GlobalBank ChurnAnalysis Dataset</a>
 
  GlobalBank ChurnAnalysis Dashboard:
- - <a href=">GlobalBank ChurnAnalysis </a>
+ - <a href="https://github.com/abhinagendramangalapally-oss/Global-Bank_-Churn-Analysis/blob/main/churn%20analysis.pbit">GlobalBank ChurnAnalysis Interactive Dashboard</a>
 
 
 
