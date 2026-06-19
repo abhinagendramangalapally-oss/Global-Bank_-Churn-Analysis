@@ -12,7 +12,8 @@ Dataset used:
 - <a href="https://github.com/abhinagendramangalapally-oss/Global-Bank_-Churn-Analysis/blob/main/Bank_Churn.xlsx">GlobalBank ChurnAnalysis Dataset</a>
 
  GlobalBank ChurnAnalysis Dashboard:
-  <img width="1375" height="793" alt="Global bank churn analysis png" src="https://github.com/user-attachments/assets/9fcb72ff-d8bf-4b49-a989-807e6399435d" />
+ - <a href=">GlobalBank ChurnAnalysis </a>
+
 
 
 ##Key Findings 
@@ -28,7 +29,7 @@ high-risk categories, requiring immediate, targeted proactive marketing
 interventions.
 
 Dashboard Image View:
--<a href=" https://github.com/abhinagendramangalapally-oss/Global-Bank_-Churn-Analysis/blob/main/Global%20bank%20churn%20analysis.png.png">>GlobalBank Dashboard ImageView</a>
+  <img width="1375" height="793" alt="Global bank churn analysis png" src="https://github.com/user-attachments/assets/9fcb72ff-d8bf-4b49-a989-807e6399435d" />
 
 ##2. Business Objective 
 
