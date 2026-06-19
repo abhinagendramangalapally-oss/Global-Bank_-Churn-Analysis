@@ -1,5 +1,5 @@
 # Global-Bank_-Churn-Analysis
-   The Business Problem 
+   ##The Business Problem 
    
    The bank is experiencing a substantial customer attrition rate. Out of 10,000 active accounts, 
 2,670 customers have left the bank, resulting in a churn rate of 26.7%. With an overall 
@@ -8,7 +8,16 @@ dollars in lost or at-risk revenue. Management lacked clear visibility into why 
 were leaving, which segments posed the highest financial risk, and what operational 
 adjustments could prevent future losses. 
 
-Key Findings 
+
+
+
+
+
+
+
+
+
+##Key Findings 
 
 -> Contract Vulnerability: Customers on short-term Monthly Contracts are the 
 dominant drivers of churn. 
@@ -20,15 +29,15 @@ exhibit disproportionately higher churn rates than those on automated billing.
 high-risk categories, requiring immediate, targeted proactive marketing 
 interventions. 
 
-2. Business Objective 
+##2. Business Objective 
 
-Why Customer Churn Matters
+##Why Customer Churn Matters
 
 Every customer who closes their account takes away recurring monthly fees, loan potentials, 
 and transaction volumes. Furthermore, replacing a customer costs up to 5 times more in 
 marketing and onboarding expenses than keeping an existing one happy. 
 
-Business Value of this Analysis 
+##Business Value of this Analysis 
 
 This project transforms raw transactional and demographic data into a strategic asset. By 
 identifying exactly where the bank is losing customers, leadership can: 
@@ -37,7 +46,7 @@ identifying exactly where the bank is losing customers, leadership can:
 3. Design tailored product adjustments (e.g., promotional long-term contracts) that 
 address customer pain points before they exit.
 
-3. Data Preparation & Engineering 
+##3. Data Preparation & Engineering 
 To ensure data integrity, the raw dataset underwent comprehensive cleaning and feature 
 engineering using Power Query within Excel and Power BI. 
 • Data Cleaning & Profiling: Handled missing data points, eliminated duplicate rows, 
@@ -55,7 +64,7 @@ o Total Churn = CALCULATE (COUNT (Bank_Churn [CustomerID]), Bank_Churn
 [Churn] = 1) 
 o Churn Rate =DIVIDE ([Total Churn], [Total Customers], 0)
 
-5. Dashboard Overview
+##5. Dashboard Overview
    
 The final product is a single-page executive-level analytical dashboard built in Power BI, 
 optimized for intuitive navigation. 
@@ -72,31 +81,27 @@ they leaving?).
 o Right side focuses on financial values and payment structures (What is the 
 revenue cost?). 
 
-7. Key Business Insights & Deep Dives
-   
-A. Churn by Contract Type 
+###A. Churn by Contract Type 
 • Insight: Over 75% of all churned customers belong to the Monthly Contract 
 segment. Customers locked into One-Year or Two-Year contracts show remarkably 
 stable retention rates. 
 • Management Takeaway: Short-term flexibility is hurting our bottom line. Customers 
 without a long-term commitment view our services as transactional rather than 
 relational. 
-B. Churn by Tenure Group (The First-Year Drop-Off) 
+##B. Churn by Tenure Group (The First-Year Drop-Off) 
 • Insight: Attrition is heavily concentrated among New Customers (those with less 
 than 12 months with the bank). Once a customer crosses the 3-year (Loyal) mark, 
 their propensity to churn drops to single digits. 
 • Management Takeaway: Our onboarding experience or initial expectations are 
 failing. The first 90 to 180 days are critical; if we don't engage them deeply there, we 
 lose them entirely. 
-C. Churn by Risk Segment 
+##C. Churn by Risk Segment 
 • Insight: The data engine classified a significant pool of customers under the High Risk 
 segment, showing an overlap where high monthly charges correspond with declining 
 transaction frequencies. 
 • Management Takeaway: High-paying customers are highly sensitive to fee increases 
 or perceived poor service quality. 
-
-D. Churn by Payment Method 
-
+##D. Churn by Payment Method 
 • Insight: Customers paying via manual methods (like Mailed Checks) churn at a 
 significantly higher rate compared to those who set up automated billing options like 
 Bank Transfers or Credit Cards. 
@@ -104,7 +109,7 @@ Bank Transfers or Credit Cards.
 point" where the customer consciously reflects on whether they want to keep 
 spending money with us. Automated billing removes this friction. 
 
-9. Strategic Recommendations 
+##9. Strategic Recommendations 
 Based on the insights derived from the dashboard, the following data-informed initiatives 
 are recommended to executive management: 
 1. Introduce an Automated Billing Incentive Program: Launch a targeted campaign 
@@ -121,7 +126,7 @@ fees. The upfront discount is heavily outweighed by the guaranteed retention val
 managers receive a flag when a customer falls into the "High Risk" segment, 
 triggering immediate outreach with personalized relationship-retention offers.
 
-7. Realized Business Impact
+##7. Realized Business Impact
    
 By deploying this BI framework across operations, leadership gains immediate business 
 advantages: 
@@ -135,7 +140,7 @@ line revenue.
 retention campaigns for all 10,000 customers, the bank can precisely direct its 
 spending toward the vulnerable 2,670 group. 
 
-9. Core Technical Skills Demonstrated 
+##9. Core Technical Skills Demonstrated 
 • Data Preparation (Excel/Power Query): Applied robust data profiling, addressed 
 missing values, removed system anomalies, and engineered clean business 
 dimensions. 
@@ -147,7 +152,7 @@ uncluttered dashboard interface following corporate UI design principles.
 rows and extract clear, actionable initiatives that non-technical CEOs can confidently 
 fund.
 
-11. Project Conclusion & Next Steps 
+##11. Project Conclusion & Next Steps 
 
 This project successfully bridges the gap between raw data and corporate execution. By 
 illuminating the vulnerabilities in monthly contracts, manual payment structures, and early 
